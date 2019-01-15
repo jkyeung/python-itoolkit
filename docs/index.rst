@@ -5,8 +5,8 @@ Welcome to itoolkit's documentation!
    :maxdepth: 1 
    :caption: Contents:
 
-   api
-   examples
+   api_
+   examples_
 
 Indices and tables
 ==================
