@@ -389,6 +389,7 @@ class iPgm (iBase): # noqa N801
 
         Args:
           obj   (obj): iData object or iDs object.
+          iopt (dict): options to pass to iParm constructor
 
         Returns:
           (void)
